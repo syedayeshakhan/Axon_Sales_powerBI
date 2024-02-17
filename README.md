@@ -39,6 +39,7 @@ Following DAX expression was written for the same,
         Total sales = sum(sales price)
         
 A card visual was used to represent count of customers.
+#
 ![Screenshot 2024-02-17 161659](https://github.com/syedayeshakhan/Axon_Sales_powerBI/assets/159778073/8916b1dd-1060-4c83-95da-68b6c6c81383)
 
 
