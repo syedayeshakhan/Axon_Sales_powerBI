@@ -5,7 +5,7 @@ A brief description of what this project does and who it's for
 
 # Axon sales-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiZjhmNGEyNmYtYzMxMC00ZWE4LWEwYjktMTQ4OTg3Mjk2ZmI4IiwidCI6IjQ4MmQzMTQzLTYzMGUtNDI0My05YmQzLTdhYjZhNzdjYWY5ZCJ9
+### Dashboard Link : https://tinyurl.com/yfnrhfu9
 
 ## Problem Statement
 
